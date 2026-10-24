@@ -1,0 +1,26 @@
+﻿just downloader for Windows — included third-party tools (in the _bin folder)
+These programs are redistributed unmodified. Their source code is available at the links below.
+
+yt-dlp 2026.10.10.233141
+  License: The Unlicense (public domain)
+  Source:  https://github.com/yt-dlp/yt-dlp
+
+FFmpeg (ffmpeg.exe, ffprobe.exe)  N-125551-ga09be9b91e-20260712, build by BtbN
+  License: GNU General Public License v3 (built with --enable-gpl --enable-version3)
+  Source:  https://github.com/BtbN/FFmpeg-Builds  (build scripts)
+           https://git.ffmpeg.org/ffmpeg.git  /  https://ffmpeg.org/download.html  (FFmpeg source)
+  License text: https://www.gnu.org/licenses/gpl-3.0.txt
+
+aria2 1.37.0 (aria2c.exe)
+  License: GNU General Public License v2 or later
+  Source:  https://github.com/aria2/aria2/releases/tag/release-1.37.0
+  License text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+Deno 2.9.3 (deno.exe)
+  License: MIT
+  Source:  https://github.com/denoland/deno
+
+If any of the links above stop working, write to support@4dir.net and we will send you the source code of the exact versions included here.
+
+just downloader for Windows (just downloader.vbs, _bin\VideoRef.ps1)
+  © 4Dir. Free to use.
